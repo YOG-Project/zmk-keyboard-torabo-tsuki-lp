@@ -67,7 +67,7 @@
 &kp ESC    &kp N1              &kp N2          &kp N3          &kp N4            &kp N5                                        &kp N6       &kp N7    &kp N8           &kp N9           &kp N0                  &kp BSPC
 &kp TAB    &mt ESC Q           &kp W           &kp E           &kp R             &kp T                                         &kp Y        &kp U     &lt 5 I          &kp O            &mt PRINTSCREEN P       &kp BSPC
 &kp CAPS   &mt LEFT_CONTROL A  &mt LEFT_WIN S  &mt LEFT_ALT D  &kp F             &kp G        &mkp LCLK         &mkp RCLK      &kp H        &kp J     &mt RIGHT_ALT K  &mt RIGHT_WIN L  &mt RIGHT_CONTROL SEMI  &kp SQT
-&kp LSHFT  &mt LEFT_SHIFT Z    &kp X           &kp C           &kp V             &kp B        &kp SPACE         &kp RET        &kp N        &kp M     &kp COMMA        &kp DOT          &mt RIGHT_SHIFT FSLH    &kp RSHFT
+&kp LSHFT  &mt LEFT_SHIFT Z    &kp X           &kp C           &kp V             &kp B        &kp SPACE         &kp EQUAL      &kp N        &kp M     &kp COMMA        &kp DOT          &mt RIGHT_SHIFT FSLH    &kp RSHFT
 &kp LCTRL  &kp LCTRL           &kp LGUI        &kp LALT        &lt 6 LANGUAGE_2  &lt 3 SPACE  &lt 2 LANGUAGE_1  &kp BACKSPACE  &lt 1 ENTER  &kp BSPC  &kp RALT         &kp RGUI         &kp DEL                 &kp RCTRL
             >;
         };
